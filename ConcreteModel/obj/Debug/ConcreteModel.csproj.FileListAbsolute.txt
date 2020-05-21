@@ -1,0 +1,12 @@
+D:/КУРСАЧИ НА ЗАКАЗ/Kursach7Variant/ConcreteModel/obj/Debug/ConcreteModel.csproj.CoreCompileInputs.cache
+D:/КУРСАЧИ НА ЗАКАЗ/Kursach7Variant/ConcreteModel/bin/Debug/ConcreteModel.dll
+D:/КУРСАЧИ НА ЗАКАЗ/Kursach7Variant/ConcreteModel/bin/Debug/ConcreteModel.pdb
+D:/КУРСАЧИ НА ЗАКАЗ/Kursach7Variant/ConcreteModel/obj/Debug/ConcreteModel.dll
+D:/КУРСАЧИ НА ЗАКАЗ/Kursach7Variant/ConcreteModel/obj/Debug/ConcreteModel.pdb
+D:/КУРСАЧИ НА ЗАКАЗ/Kursach7Variant/ConcreteModel/obj/Debug/ConcreteModel.csprojAssemblyReference.cache
+/Users/user/Downloads/Kursach7Variant/ConcreteModel/bin/Debug/ConcreteModel.dll
+/Users/user/Downloads/Kursach7Variant/ConcreteModel/bin/Debug/ConcreteModel.pdb
+/Users/user/Downloads/Kursach7Variant/ConcreteModel/obj/Debug/ConcreteModel.csprojAssemblyReference.cache
+/Users/user/Downloads/Kursach7Variant/ConcreteModel/obj/Debug/ConcreteModel.csproj.CoreCompileInputs.cache
+/Users/user/Downloads/Kursach7Variant/ConcreteModel/obj/Debug/ConcreteModel.dll
+/Users/user/Downloads/Kursach7Variant/ConcreteModel/obj/Debug/ConcreteModel.pdb
